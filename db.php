@@ -1,9 +1,9 @@
 <?php
 
-$servername = getenv('NAME');
-$username =getenv('USER');
-$password = getenv('PASSWORD');
-$db = getenv('DBNAME');
+$servername ="onlineshopdb.c784acue4v8e.us-east-1.rds.amazonaws.com";
+$username ="admin";
+$password = "HY2005hy2005";
+$db = "onlineshopdb";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
