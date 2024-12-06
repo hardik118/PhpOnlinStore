@@ -1,6 +1,6 @@
 <?php
 
-$servername ="mysql-14f97612-hardikyadav1182005-6846.e.aivencloud.com";
+$servername ="localhost";
 $username ="avnadmin";
 
 
